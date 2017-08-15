@@ -1,0 +1,12 @@
+input {
+  width: 400px;
+  margin-top: 50px;
+}
+
+p {
+  text-align: left;
+}
+
+.list-group-item {
+  margin-bottom: 10px;
+}
